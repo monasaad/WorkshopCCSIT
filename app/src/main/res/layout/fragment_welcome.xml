@@ -12,7 +12,7 @@
         android:id="@+id/textView"
         android:layout_width="244dp"
         android:layout_height="47dp"
-        android:text="Welcome to CCSIT Workshop"
+        android:text="Welcome to CCSIT workshop"
         android:textColor="#0D4040"
         android:textSize="18sp"
         android:textStyle="bold"

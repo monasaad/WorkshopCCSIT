@@ -40,7 +40,7 @@
             android:background="#9A7D46"
             android:gravity="center"
             android:onClick="regButton"
-            android:text="Registr"
+            android:text="Register"
             android:textAllCaps="false"
             android:textColor="#FFFFFF"
             android:textSize="18sp"
